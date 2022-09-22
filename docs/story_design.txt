@@ -1,0 +1,64 @@
+										CURSED KINGS
+
+Histoire : 
+Personnage tombe dans le coma, se réveille en chevalier et a pour but de tuer tout les délivrer de leur folies. Personnage va voyager au
+travers d'un monde fantastique remplit de creature magique et d'autre humain. Son imagination est plus qu'une simple imagination.
+
+
+Biomes :
+
+0. Réalité
+1. Forest
+2. Pyramide / Desert
+3. Sanctuaire Des Lumières (Victor et Boris) (masque de lumieres)
+4. Maison hanté
+5. Volcan
+6. Eau (Temple eau)
+7. Espace (etra-terrestre)
+8. Village
+9. Chateau Fortifier
+10. Mines
+11. égout
+12. Montagne
+13. Hiver (temple glace)
+14. Poison (Caverne toxic)
+15. Electrique
+16. Bateau (Cuisinier) (couscous)
+17. Royaume des Sorciers (Méchant du Jeu)
+
+
+Détail chaque biomes :
+
+0. On retrouve le quartier de notre personnage, pleins de petites maison (village cliché)
+
+
+					FOREST
+1. Gros arbre imposant avec des endroits peu éluminé, endroit renfermé. // Peut retouver eau
+	Énemies :
+		-Arbres (frappe avec leurs branches : att lente)
+		-Serpents (glisse sur le sol : att rapide)
+		-Tarentules (Arrive du plafond pour te sauter dessus, saccroche a tete de Personnage : att normal)
+		-Buissons (Sortent du sol et cour vers Personnage : vitesse rapide)
+		-Oiseaux (reste dans les airs et plonge vers Personnage lorsque est dans son champs de vision : vitesse tres rapide)
+	Mini-Boss :
+		-Gros Arbres : capable de lancer des Buissons, repose sur lui 1 Oiseau, se coupe en 2 lorsque PV = 50%
+	BOSS :
+		-Esprit de la Foret : Des grosses racines dangereuses sortent du sol
+			Att Spécial : Tire de grosses épines
+	Récompense : Grosses Épines (attaque distance)
+	Prérequis : 
+
+					DESERT
+2. Endroit ou il fait tres chaud remplit de menace et d'une gigantesque pyramide.
+	Énemies :
+		-Cactus
+		
+
+
+
+
+
+
+
+
+	
