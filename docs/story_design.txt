@@ -1,33 +1,40 @@
 										CURSED KINGS
 
 Histoire : 
-Personnage tombe dans le coma, se réveille en chevalier et a pour but de tuer tout les délivrer de leur folies. Personnage va voyager au
+Personnage tombe dans le coma (A repenser), se réveille en chevalier et a pour but de tuer tout les délivrer de leur folies. Personnage va voyager au
 travers d'un monde fantastique remplit de creature magique et d'autre humain. Son imagination est plus qu'une simple imagination.
 
 
-Biomes :
+Biomes :  (Endroit entre les différents royaumes)
 
-0. Réalité
 1. Forest
-2. Pyramide / Desert
-3. Sanctuaire Des Lumières (Victor et Boris) (masque de lumieres)
-4. Maison hanté
-5. Volcan
-6. Eau (Temple eau)
-7. Espace (etra-terrestre)
-8. Village
-9. Chateau Fortifier
-10. Mines
-11. égout
-12. Montagne
-13. Hiver (temple glace)
-14. Poison (Caverne toxic)
-15. Electrique
-16. Bateau (Cuisinier) (couscous)
-17. Royaume des Sorciers (Méchant du Jeu)
+2. Desert
+3. Village hanté
+4. Volcan
+5. Mer Royal (Temple eau)
+6. Mines
+7. égout
+8. Montagnes eneigées
+9. Caverne toxic
+10. Bateau (Cuisinier) (couscous)
+
+Royaumes : 
+
+0. Réalité  // A repenser
+1. Royaume des Lumières (Victor et Boris) (masque de lumieres)
+2. Royaume des Trolls
+3. Royaume des Hommes
+4. Royaume des Nains
+5. Royaume des Elfs
+6. Royaume des Enfers (La porte entre les 2 dimensions)
+   ///////////////
+	Dimension Noir
+1. Royaume des Trolls
+2. Royaume des Hommes
+3. Royaume des Nains
+4. Royaume des Elfs
 
 
-Détail chaque biomes :
 
 0. On retrouve le quartier de notre personnage, pleins de petites maison (village cliché)
 
