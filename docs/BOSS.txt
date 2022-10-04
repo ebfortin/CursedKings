@@ -1,5 +1,7 @@
 									LISTE BOSS
 
+
+				            	-------------DANS LES ROYAUMES-------------------
 Royaume des Lumières :
 
 Victor : Golden Knight (Gros lent fort)
@@ -37,6 +39,13 @@ Royaume des Enfers :
 Magmus : Demon de lave
 Satan : Diable
 
+Cité des vents :
 
+Atrix : Phoenix God
+Taranon : Dragon King (multi-elementaire : feu, electrique, poison, eau)
+
+						-------------DANS LES BIOMES-------------------
+
+Foret :
 
 
